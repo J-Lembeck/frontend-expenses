@@ -3,9 +3,9 @@
 const Categories = () => {
 
     return (
-        <>
-            <h1>Despesas</h1>
-        </>
+        <div >
+            <h1>Categorias</h1>
+        </div>
     )
 }
 
